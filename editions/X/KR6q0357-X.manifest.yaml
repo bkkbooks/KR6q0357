@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0357/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0357/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 投子義青禪師語錄
+  identifiers:
+    krp: KR6q0357
+    cbeta: X71n1424
+    cbeta_old_id: X71n1424
+    authorityid: CA0003274
+    json_key: X1424
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1424.xml
+    old_id: X71n1424
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0357_000-X.yaml, hash: 'sha256:3e10d1b298a74da9c1f7ec38ec336df19c1be26e570411e1fd9de4981295ecfc'}
+  - {seq: 1, filename: KR6q0357_001-X.yaml, hash: 'sha256:699ceafc3b18d0027f78c2ca50f8fb1e267858cca93603f14c58f9787bdfbb42'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0357_000-X.markers.yaml, hash: 'sha256:cde425092bcb1e7b38c4349fa743b78a61e2d37270f426444969a920310c886d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0357_001-X.markers.yaml, hash: 'sha256:3ac34cf5a067fea0f79f9c12d083e63b38e385d74c8e9b85eef8f8a64f59b136'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0357_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4369
+  label: 舒州投子山妙續大師語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0357_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 舒州投子山妙續大師語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0357_X_001-mulu-2
+    span:
+    - body
+    - 3890
+    - 3890
+  label: No. 1424-A 跋
+  type: mulu
+  level: 1
+hash: sha256:69f1a8e63e8b387f6beb2baf6e7eac8776d379dd15e3fc26100badcc8eae5e9d

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0357/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 投子義青禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1424.xml
+    old_id: X71n1424
+hash: sha256:3e10d1b298a74da9c1f7ec38ec336df19c1be26e570411e1fd9de4981295ecfc
