@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0357/v1
 canonical_location: https://kanripo.org/bkk/KR6q0357/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 投子義青禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0357_000.yaml, hash: 'sha256:3e10d1b298a74da9c1f7ec38ec336df19c1be26e570411e1fd9de4981295ecfc'}
-  - {seq: 1, filename: KR6q0357_001.yaml, hash: 'sha256:699ceafc3b18d0027f78c2ca50f8fb1e267858cca93603f14c58f9787bdfbb42'}
+  - {seq: 1, filename: KR6q0357_001.yaml, hash: 'sha256:2a12fba5141f27bfca4517c1e910829c8324d933200be2cb3224573393cd3b8d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0357_000.markers.yaml, hash: 'sha256:ddec3e403e0afe451cfb2cc54027c8a763b608e321487d2c94cb9a1e070b7242'}
-  - {seq: 1, role: markers, filename: assets/KR6q0357_001.markers.yaml, hash: 'sha256:8e59aeb3e176ab1cbd6c3ab9915007cde4a21a8365ab7fb759e62a6277b950c6'}
+  - {seq: 1, role: markers, filename: assets/KR6q0357_001.markers.yaml, hash: 'sha256:edd33a7dc6fd5574a765ab7b6e17a0b3b1484c1edb096b2d47db1660428ef5d2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: No. 1424-A 跋
   type: mulu
   level: 1
-hash: sha256:10d8db24bb885d176d41f1641a8d0f76878f4bc08de4e6cdcee2555ca611c6ba
+hash: sha256:667f11d5c2ab8cae6824b046aaa1c7d93a416148ab4704c6b88e627e1e96e3ba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
